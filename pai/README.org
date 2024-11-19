@@ -1,0 +1,44 @@
+#+TITLE: PAI Python Package (WIP)
+
+* Description
+ The aim is to provide a python package that computes partial analysis
+ increments (PAI) for ICON KENDA
+
+* Structure
+
+  The "pai" Python package is structured as follows:
+
+  ** pai/
+     Root directory of the Python package.
+
+     *** __init__.py
+        Initialization file, makes the directory a Python package.
+
+     *** utils.py
+        Module containing utility functions.
+
+     *** localization.py
+        Module containing localization functionality.
+
+     *** partial_analysis_increment.py
+        Module containing partial analysis increment functions.
+
+
+* Usage
+
+* Documentation
+  - Code: In progress
+  - Paper: https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/qj.4419
+
+* Contributing
+  Create your own git branch, submit a pull request
+
+* License
+  Information about the license under which the package is distributed.
+
+* Authors
+- Theresa Diefenbach
+- Thanks for code contributions from Leonhard Scheck
+
+* Version History
+    version 0.0.1
